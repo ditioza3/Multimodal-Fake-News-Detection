@@ -57,4 +57,3 @@ The multimodal approach demonstrated improved performance compared to unimodal b
 
 Diti Peyur Oza
 "# Multimodal-Fake-News-Detection" 
-"# Multimodal-Fake-News-Detection" 
