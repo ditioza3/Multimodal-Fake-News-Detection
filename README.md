@@ -47,14 +47,6 @@ Traditional fake news detection systems primarily rely on textual information. H
 
 The multimodal approach demonstrated improved performance compared to unimodal baselines, highlighting the effectiveness of combining textual and visual information for misinformation detection.
 
-## Project Structure
-
-project/
-├── notebooks/
-├── datasets/
-├── requirements.txt
-└── README.md
-
 ## Future Work
 
 * Integration of Large Language Models (LLMs)
@@ -64,4 +56,5 @@ project/
 ## Author
 
 Diti Peyur Oza
+"# Multimodal-Fake-News-Detection" 
 "# Multimodal-Fake-News-Detection" 
